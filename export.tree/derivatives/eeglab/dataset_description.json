@@ -1,0 +1,14 @@
+{
+  "Name": "EEGLAB preprocessed data",
+  "BIDSVersion": "1.6.0",
+  "PipelineDescription": {
+    "Name": "EEGLAB preprocessing"
+  },
+  "GeneratedBy": [
+    {
+      "Name": "MATLAB",
+      "Version": "9.14.0.2206163 (R2023a)"
+    }
+  ],
+  "SourceDataset": []
+}
