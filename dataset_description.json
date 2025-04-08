@@ -22,5 +22,6 @@
         }
     ],
     "SourceDatasets": [],
-    "StudyDescription": "This dataset combines two related studies: Study 1 (2019) focused on consonant-vowel (CV) and vowel-consonant (VC) phoneme pairs, while Study 2 (2021) expanded to include single phonemes and phoneme triplets (CVC). Both studies employed TMS to targeted areas of the motor cortex during a phoneme discrimination task."
+    "StudyDescription": "This dataset combines two related studies: Study 1 (2019) focused on consonant-vowel (CV) and vowel-consonant (VC) phoneme pairs, while Study 2 (2021) expanded to include single phonemes and phoneme triplets (CVC). Both studies employed TMS to targeted areas of the motor cortex during a phoneme discrimination task.",
+    "Funding": []
 }
