@@ -1,0 +1,22 @@
+{
+    "TaskName": "phonemes",
+    "TaskDescription": "Listening to consonant-vowel phoneme pairs.",
+    "Instructions": "Participants listened to audio clips immersed in white noise and responded with button presses.",
+    "EEGReference": "CPz",
+    "EEGGround": "AFz",
+    "SamplingFrequency": 2000,
+    "PowerLineFrequency": 60,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": {
+        "HighpassFilter": {
+            "CutoffFrequency": 0.1
+        },
+        "LowpassFilter": {
+            "CutoffFrequency": 350
+        }
+    },
+    "EEGPlacementScheme": "extended 10-20 system",
+    "CapManufacturer": "ANT Neuro",
+    "CapManufacturersModelName": "WaveGuard 64-channel EEG cap",
+    "ManufacturersModelName": "eego mylab system"
+}

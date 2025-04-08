@@ -1,0 +1,26 @@
+{
+    "Name": "EEG dataset for speech decoding",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "João Pedro Carvalho Moreira",
+        "Vinícius Rezende Carvalho",
+        "Eduardo Mazoni Andrade Marçal Mendes",
+        "Ariah Fallah",
+        "Terrence J. Sejnowski",
+        "Claudia Lainscsek",
+        "Lindy Comstock"
+    ],
+    "License": "CC0",
+    "Acknowledgements": "This research was supported by...",
+    "HowToAcknowledge": "Please cite: Moreira et al. \"An open-access EEG dataset for speech decoding: Exploring the role of articulation and coarticulation\"",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006104.v1.0.0",
+    "GeneratedBy": [
+        {
+            "Name": "MATLAB",
+            "Version": "9.14.0.2206163 (R2023a)"
+        }
+    ],
+    "SourceDatasets": [],
+    "StudyDescription": "This dataset combines two related studies: Study 1 (2019) focused on consonant-vowel (CV) and vowel-consonant (VC) phoneme pairs, while Study 2 (2021) expanded to include single phonemes and phoneme triplets (CVC). Both studies employed TMS to targeted areas of the motor cortex during a phoneme discrimination task."
+}

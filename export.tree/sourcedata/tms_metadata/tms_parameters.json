@@ -1,0 +1,52 @@
+{
+  "Manufacturer": "Magstim",
+  "ManufacturersModelName": "Super Rapid Plus1",
+  "CoilType": "figure-of-eight",
+  "CoilShape": "figure-of-eight",
+  "CoilSize": 40,
+  "StimulationTargets": {
+    "LipM1": {
+      "Description": "Lip motor cortex",
+      "MNICoordinates": [
+        -56,
+        -8,
+        46
+      ]
+    },
+    "TongueM1": {
+      "Description": "Tongue motor cortex",
+      "MNICoordinates": [
+        -60,
+        -10,
+        25
+      ]
+    },
+    "BrocasArea": {
+      "Description": "Broca's area (BA 44)",
+      "MNICoordinates": [
+        -51,
+        7,
+        23
+      ]
+    },
+    "VerbalMemory": {
+      "Description": "Verbal memory region (BA 6)",
+      "MNICoordinates": [
+        -46,
+        1,
+        41
+      ]
+    }
+  },
+  "StimulationIntensity": 110,
+  "StimulationIntensityType": "percentage of resting motor threshold",
+  "StimulationPattern": "paired-pulse",
+  "InterPulseInterval": 50,
+  "TargetingMethod": "neuronavigation",
+  "TargetingMethodDescription": "Visor 2 neuronavigation system using individual MRI scans",
+  "NeuronavigationSystem": "Visor 2",
+  "SubjectArrangement": "seated",
+  "References": [
+    "D'Ausilio, A. et al. (2009). The motor somatotopy of speech perception. Current Biology, 19, 381-385."
+  ]
+}
